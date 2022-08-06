@@ -1,0 +1,31 @@
+{
+  "houses": [
+    {
+      "name": "Rohima",
+      "ownerName": "Anowar ",
+      "address": "cs",
+      "areaCode": "123",
+      "rent": "100",
+      "preferredtenants": "bachelor",
+      "id": 1
+    },
+    {
+      "name": "Rohan",
+      "ownerName": "Afta",
+      "address": "hjhi",
+      "areaCode": "21",
+      "rent": "50",
+      "preferredtenants": "married",
+      "id": 2
+    },
+    {
+      "name": "ANOWAR ",
+      "ownerName": "Hagaah",
+      "address": "scs",
+      "areaCode": "23",
+      "rent": "150",
+      "preferredtenants": "married",
+      "id": 3
+    }
+  ]
+}
